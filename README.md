@@ -62,10 +62,6 @@ weighted avg       1.00      1.00      1.00        45
 Project/
 ├── notebooks/
 │   └── Iris_EDA_and_Model.ipynb
-├── models/
-│   └── logistic_regression_model.pkl
-├── reports/
-│   └── project_report.md
 ├── README.md
 ```
 
@@ -82,11 +78,7 @@ Project/
    ```bash
    git clone <repository_url>
    ```
-2. Install required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook for step-by-step analysis and model building:
+2. Run the Jupyter Notebook for step-by-step analysis and model building:
    ```bash
    jupyter notebook notebooks/Iris_EDA_and_Model.ipynb
    ```
